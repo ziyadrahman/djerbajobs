@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@android:color/white"
+    android:background="@android:color/white"
+    android:elevation="16dp"
+    android:layout_marginBottom="5dp"
+    app:cardCornerRadius="0dp"
+
+
+    >
+    <LinearLayout
+        android:id="@+id/contentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="9dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginLeft="14dp"
+
+        >
+        <TextView
+            android:id="@+id/job_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ethical Hacker"
+            app:autoSizeTextType="uniform"
+            android:layout_marginBottom="4dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/company_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Github"
+            android:layout_marginBottom="4dp"
+            app:autoSizeTextType="uniform"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/experienceText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Github"
+            android:layout_marginBottom="4dp"
+            app:autoSizeTextType="uniform"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/skillsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Github"
+            android:layout_marginBottom="4dp"
+            app:autoSizeTextType="uniform"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/location_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0.5"
+            android:text="London"
+            app:autoSizeTextType="uniform"
+            android:layout_marginBottom="4dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+        <ImageButton
+            android:id="@+id/shareBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_share_black_24dp"
+            android:background="@android:color/white"
+            android:layout_gravity="end"
+            android:layout_marginRight="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="20dp"
+           />
+
+
+
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "106750219017",
+    "firebase_url": "https://sampe-a2494.firebaseio.com",
+    "project_id": "sampe-a2494",
+    "storage_bucket": "sampe-a2494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106750219017:android:5576a8910d725b37a139d8",
+        "android_client_info": {
+          "package_name": "com.example.djerbajobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106750219017-rv17qs3flafmi3gvpnvl618mqppi3f76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.djerbajobs",
+            "certificate_hash": "f09e0619341c649d53e4a78a3e199852ad87f4ab"
+          }
+        },
+        {
+          "client_id": "106750219017-6gv9nlb85089qaf00e8eq45dt0jf9jfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.djerbajobs",
+            "certificate_hash": "d1a65e2cd480aa2e5aaa1e69ca6b95b87b92ee0d"
+          }
+        },
+        {
+          "client_id": "106750219017-fo3ta0e9t2f5oktspabflrqe8sijur07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzw1UR4r82ud8BBrPr3iB-IcwSKP373GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106750219017-fo3ta0e9t2f5oktspabflrqe8sijur07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106750219017:android:956728a098518d7aa139d8",
+        "android_client_info": {
+          "package_name": "com.maxking.djerbajobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106750219017-vr2rr0i10fp83524t4r1ki3jn3i1cur1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxking.djerbajobs",
+            "certificate_hash": "d1a65e2cd480aa2e5aaa1e69ca6b95b87b92ee0d"
+          }
+        },
+        {
+          "client_id": "106750219017-fo3ta0e9t2f5oktspabflrqe8sijur07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzw1UR4r82ud8BBrPr3iB-IcwSKP373GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106750219017-fo3ta0e9t2f5oktspabflrqe8sijur07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
